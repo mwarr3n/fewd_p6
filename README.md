@@ -15,8 +15,7 @@ Live version: [http://mwarr3n.github.io/fewd_p6](http://mwarr3n.github.io/fewd_p
 * a test that ensures the menu changes visibility when the menu icon is clicked. 
 * a test that ensures when the loadFeed function is called and completes its work, there is at least a single .entry element within the .feed container.
 * a test that ensures when a new feed is loaded by the loadFeed function that the content actually changes. 
-* Additional tests 
-..* Test to make sure the menu contains links.
+* Additional Test: Test to make sure the menu contains links.
 
 #### Resources Used:
 * StackOverflow
